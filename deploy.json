@@ -1,0 +1,28 @@
+{
+  "name": "string",
+  "type": "Microsoft.Resources/deployments",
+  "apiVersion": "2018-05-01",
+  "location": "string",
+  "subscriptionId": "string",
+  "resourceGroup": "string",
+  "properties": {
+    "template": {},
+    "templateLink": {
+      "uri": "string",
+      "contentVersion": "string"
+    },
+    "parameters": {},
+    "parametersLink": {
+      "uri": "string",
+      "contentVersion": "string"
+    },
+    "mode": "string",
+    "debugSetting": {
+      "detailLevel": "string"
+    },
+    "onErrorDeployment": {
+      "type": "string",
+      "deploymentName": "string"
+    }
+  }
+}
